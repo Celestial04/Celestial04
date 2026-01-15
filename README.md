@@ -1,4 +1,4 @@
-Hi! Im Celeste, I have 21yo and I love coding since I've 12yo and I live in France. 
+Hi! I'm Celeste, I have 21yo and I love coding since I've 12yo and I live in France. 
 
 ![Visitors :3](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCelestial04&label=visits&countColor=%23ffaadd) ![my website](https://katsuu04.dev/cdn/gifs/button.gif)
 
