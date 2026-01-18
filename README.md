@@ -1,6 +1,6 @@
 Hi! I'm Celeste, I have 21yo and I love coding since I've 12yo and I live in France. 
 
-![Visitors :3](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCelestial04&label=visits&countColor=%23ffaadd) [![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
+[![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
 
 ## Things I use
 
@@ -38,3 +38,5 @@ Hi! I'm Celeste, I have 21yo and I love coding since I've 12yo and I live in Fra
 ### Other things
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+![Visitors :3](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCelestial04&label=visits&countColor=%23ffaadd)
