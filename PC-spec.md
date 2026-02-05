@@ -21,5 +21,5 @@ Here's all my hardware/software informations, from my main PC to my laptop.
 - Mouse: **Razer Basilisk V3** `632529h21201715`
 - Keyboard: **Razer Cynosa V2** `pm2131f41700669`
 - Screens:
-    - **Iiyama North America PL2770H** (G-Master G2770HS) 1920x1080 @ 180Hz
-    - **LG Electronics M2294D-PZ** (G-Master G2770HS) 1680x1050 @ 60Hz
+    -  **[Iiyama North America PL2770H](https://www.displayspecifications.com/en/model/1d613bf5)** (G-Master G2770HS) 1920x1080  @ 180Hz [Main screen]
+    - **[LG Electronics M2294D-PZ](https://www.lg.com/fr/moniteurs/m2294d-pz/)** (Flatron M2294D) 1680x1050 HDMI @ 60Hz
