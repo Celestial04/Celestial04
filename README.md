@@ -1,4 +1,7 @@
-Hi! I'm Celeste, I have 21yo and I love coding since I've 12yo and I live in France. 
+# Hi! I'm Celeste!
+I have 21yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm mostly interested in **web and mobile** developpement.
+
+
 
 [![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
 
