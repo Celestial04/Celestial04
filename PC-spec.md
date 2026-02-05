@@ -3,7 +3,7 @@
 Here's all my hardware/software informations, from my main PC to my laptop.
 
 > [!NOTE]
-> All Serial Number will be provided like `this`, and .
+> All Serial Number will be provided like `this`.
 
 ## PCs
 
@@ -22,4 +22,4 @@ Here's all my hardware/software informations, from my main PC to my laptop.
 - Keyboard: **Razer Cynosa V2** `pm2131f41700669`
 - Screens:
     - **Iiyama North America PL2770H** (G-Master G2770HS) 1920x1080 @ 180Hz
-    - **LG Electronics M2294D-PZ** (G-Master G2770HS) 1920x1080 @ 60Hz
+    - **LG Electronics M2294D-PZ** (G-Master G2770HS) 1680x1050 @ 60Hz
