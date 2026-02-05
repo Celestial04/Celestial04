@@ -1,9 +1,7 @@
 # Hi! I'm Celeste!
-I have 21yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm mostly interested in **web and mobile** developpement.
+I have 21yo and I love coding since I've 8yo and I live in France 🇫🇷. I'm mostly interested in **web and mobile** developpement.
 
 
-
-[![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
 
 ## Things I use
 
@@ -39,7 +37,7 @@ I have 21yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-grey?style=for-the-badge&logo=vaultwarden) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![copyparty](https://img.shields.io/badge/copyparty-yellow?style=for-the-badge)
 
 ### Other things
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Visitors :3](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCelestial04&label=visits&countColor=%23ffaadd)
+![Visitors :3](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCelestial04&label=visits&countColor=%23ffaadd) [![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
