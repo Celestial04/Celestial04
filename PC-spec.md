@@ -19,3 +19,5 @@ Here's all my hardware, from my main PC to my laptop.
     - **[Samsung SSD 870 QVO 1TB (SVQ02B6Q)](https://smarthdd.com/database/Samsung-SSD-870-QVO-1TB/SVQ02B6Q)** `S5RRNF0W518179A`
     - **[Patriot Burst (SBFM61.3)](https://smarthdd.com/database/Patriot-Burst/SBFM61.3)** `55BF079B068A00171091`
 - Mouse: **Razer Basilisk V3** `632529h21201715`
+- Keyboard: **Razer Cynosa V2** `pm2131f41700669`
+- Screens: 
