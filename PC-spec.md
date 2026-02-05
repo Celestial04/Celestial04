@@ -20,6 +20,6 @@ Here's all my hardware/software informations, from my main PC to my laptop.
     - **[Patriot Burst (SBFM61.3)](https://smarthdd.com/database/Patriot-Burst/SBFM61.3)** `55BF079B068A00171091`
 - Mouse: **Razer Basilisk V3** `632529h21201715`
 - Keyboard: **Razer Cynosa V2** `pm2131f41700669`
-- Screens: 
-
-For my
+- Screens:
+    - **Iiyama North America PL2770H** (G-Master G2770HS) 1920x1080 @ 180Hz
+    - **LG Electronics M2294D-PZ** (G-Master G2770HS) 1920x1080 @ 60Hz
