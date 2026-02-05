@@ -1,11 +1,11 @@
-# My hardware
+# My hardware/software infos
 
-Here's all my hardware, from my main PC to my laptop.
+Here's all my hardware/software informations, from my main PC to my laptop.
 
 > [!NOTE]
 > All Serial Number will be provided like `this`, and .
 
-## PCS
+## PCs
 
 ### Main PC
 
@@ -21,3 +21,5 @@ Here's all my hardware, from my main PC to my laptop.
 - Mouse: **Razer Basilisk V3** `632529h21201715`
 - Keyboard: **Razer Cynosa V2** `pm2131f41700669`
 - Screens: 
+
+For my
