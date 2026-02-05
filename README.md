@@ -4,6 +4,8 @@ I have 21yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm
 
 If want, you can also view all my infos about my electronics stuff, [go here!](https://github.com/Celestial04/Celestial04/blob/main/PC-spec.md)
  
+I have also a website! I update it regulary, when I have time and possibility, but it's a pretty good website, [you should visit it!](https://katsuu04.dev)
+
 [![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
 
 [![Last.fm Recent Scrobbles](https://lastfm-recently-played.vercel.app/api?user=ItsYuuto&show_user=header&header_size=normal_stats)](https://www.last.fm/user/celestial04_)
