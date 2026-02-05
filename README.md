@@ -37,7 +37,6 @@ I have also a website! I update it regulary, when I have time and possibility, b
   ![Next.js](https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white)
   ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=Jetpack%20Compose&logoColor=white)
   
   ### 🛠️ Tools
   
