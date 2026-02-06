@@ -2,7 +2,7 @@
 # Hi! I'm Celeste!
 I have 21yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm mostly interested in **web and mobile** developpement. I like do some fun stuff, like **hacking/modding devices**, like transform my Switch to a ubuntu server via **[Switchroot](https://switchroot.org)**, and my 3DS and all my other consoles. I have started to learn the HTML and CSS language since I've 9yo if I remember correctly, and in dec. 2025, I started to learn other languages, because since AI are more present, I don't learn anything, but I think that I should'nt use AI anymore.
 
-If want, you can also view all my infos about my electronics stuff, [go here!](https://github.com/Celestial04/Celestial04/blob/main/hardware-software.md) And if you want to see my selfhosted apps, [go here!](selfhosted.md)
+If you want, you can also view all my infos about my electronics stuff, [go here!](https://github.com/Celestial04/Celestial04/blob/main/hardware-software.md) And if you want to see my selfhosted apps, [go here!](selfhosted.md)
  
 I have also a website! I update it regulary, when I have time and possibility, but it's a pretty good website, [you should visit it!](https://katsuu04.dev)
 
