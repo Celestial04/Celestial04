@@ -8,7 +8,7 @@ Here's all my hardware/software informations, from my main PC to my laptop.
 ## PCs
 
 ### Main PC
-
+#### hardware
 - OS: **[Arch Linux](https://archlinux.org)**
 - DE: [**KDE Plasma**](https://kde.org/fr/plasma-desktop)
 - Motherboard: [**ASUS PRIME A320M-K**](https://www.userbenchmark.com/System/Asus-PRIME-A320M-K/55401)
@@ -25,4 +25,3 @@ Here's all my hardware/software informations, from my main PC to my laptop.
 - Screens:
     -  **[Iiyama North America PL2770H](https://www.displayspecifications.com/en/model/1d613bf5)** (G-Master G2770HS) 1920x1080  @ 180Hz [Main screen]
     - **[LG Electronics M2294D-PZ](https://www.lg.com/fr/moniteurs/m2294d-pz/)** (Flatron M2294D) 1680x1050 HDMI @ 60Hz
-
