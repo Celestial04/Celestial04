@@ -6,6 +6,8 @@ If you want, you can also view all my infos about my electronics stuff, [go here
  
 I have also a website! I update it regulary, when I have time and possibility, but it's a pretty good website, [you should visit it!](https://katsuu04.dev)
 
+[![Last.fm Recent Scrobbles](https://lastfm-recently-played.vercel.app/api?user=celestial04_&show_user=header&header_size=normal_stats)](https://www.last.fm/user/celestial04_)
+
 [![my website](https://katsuu04.dev/cdn/gifs/button.gif)](https://katsuu04.dev)
 
 <details>
