@@ -8,7 +8,6 @@ Here's all my hardware/software informations, from my main PC to my laptop.
 ## PCs
 
 ### Main PC
-#### hardware
 - OS: **[Arch Linux](https://archlinux.org)**
 - DE: [**KDE Plasma**](https://kde.org/fr/plasma-desktop)
 - Motherboard: [**ASUS PRIME A320M-K**](https://www.userbenchmark.com/System/Asus-PRIME-A320M-K/55401)
