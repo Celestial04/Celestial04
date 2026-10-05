@@ -1,10 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Celestial04&color=ffaadd)  [![Bitcoin](https://img.shields.io/badge/Bitcoin-bc1qvjdmc9t8merhyhfsp2nxtjjlf3a6y0w4j3sp77-FF9900?logo=bitcoin&logoColor=white)](https://mempool.space/address/bc1qvjdmc9t8merhyhfsp2nxtjjlf3a6y0w4j3sp77) [![Ethereum](https://img.shields.io/badge/Ethereum-0x1737b6935d1c501d184fe4a46048c7e931b198d5-3C3C3D?logo=ethereum&logoColor=white)](https://etherscan.io/address/0x1737b6935d1c501d184fe4a46048c7e931b198d5) [![Sponsor me!](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Celestial04)
 # Hi! I'm Celeste!
-I have 21yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm mostly interested in **web and mobile** developpement. I like do some fun stuff, like **hacking/modding devices**, like transform my Switch to a ubuntu server via **[Switchroot](https://switchroot.org)**, or hacking my 3DS and all my other consoles. I have started to learn the HTML and CSS language since I've 9yo if I remember correctly, and in dec. 2025, I started to learn other languages, because since AI are more present, I don't learn anything, but I think that I should'nt use AI anymore.
+I have 22yo and I love coding since I've 12yo and I live in France 🇫🇷. I'm mostly interested in **web and mobile** development. I like do some fun stuff, like **hacking/modding devices**, like transform my Switch to a Ubuntu server via **[Switchroot](https://switchroot.org)**, or hacking my 3DS and all my other consoles. I have started to learn the HTML and CSS language since I've 9yo if I remember correctly, and in dec. 2025, I started to learn other languages, because since AI are more present, I don't learn anything, but I think that I shouldn't use AI anymore.
 
 If you want, you can also view all my infos about my electronics stuff, [go here!](https://github.com/Celestial04/Celestial04/blob/main/hardware-software.md) And if you want to see my selfhosted apps, [go here!](selfhosted.md)
  
-I have also a website! I update it regulary, when I have time and possibility, but it's a pretty good website, [you should visit it!](https://katsuu04.dev)
+I have also a website! I update it regularly, when I have time and possibility, but it's a pretty good website, [you should visit it!](https://katsuu04.dev)
 
 [![Last.fm Recent Scrobbles](https://lastfm-recently-played.vercel.app/api?user=celestial04_&show_user=header&header_size=normal_stats)](https://www.last.fm/user/celestial04_)
 
